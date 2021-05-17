@@ -10,8 +10,8 @@ import glob
 app = pyrogram.Client(
     "upvote_bot",
     bot_token = config.bot_token,
-    api_id = 6,
-    api_hash = "eb06d4abfb49dc3eeb1aeb98ae0f581e"
+    api_id = your_api_id_here,
+    api_hash = "your_api_hash_here"
 )
 regex_upvote = r"^((?i)\+|\+\+|\+1|thx|tnx|ty|thank you|thanx|thanks|pro|cool|good|👍|pro af)$"
 regex_downvote = r"^(\-|\-\-|\-1|👎)$"
