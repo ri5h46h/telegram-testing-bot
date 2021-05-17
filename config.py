@@ -1,2 +1,2 @@
-bot_token = "1222124546:AAH_uAZ8iWhlM5pXJPXGaZ_f3hGtuaFAotg"
+bot_token = "your_bot_token_here"
 owner_id = "1385380463"
